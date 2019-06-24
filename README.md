@@ -1,2 +1,2 @@
 # Test
-Test how to public content
+Test how to publish content
